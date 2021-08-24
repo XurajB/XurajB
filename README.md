@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @XurajB
-- 👀 I’m interested in mobile development
-- 🌱 I’m currently learning Android
-- 💞️ I’m looking to collaborate on iOS apps
+- 👀 I’m am an Android Engineer
+- 🌱 I’m currently learning to fly
+- 💞️ I’m looking to collaborate with an iOS dev
 - 📫 How to reach me @iandrobot on Twitter
 
 <!---
